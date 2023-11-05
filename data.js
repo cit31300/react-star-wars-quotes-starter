@@ -1,5 +1,5 @@
 const DATA = [
-    { character: "Princess Leia", 
+    { name: "Princess Leia", 
       quotes: [
         "Help me Obi-Wan Kenobi, you're my only hope.",
         "Aren't you a little short for a stormtrooper?",
@@ -9,7 +9,7 @@ const DATA = [
         "Will someone get this big walking carpet out of my way?"
       ]
     },
-    { character: "Obi Wan Kenobi", 
+    { name: "Obi Wan Kenobi", 
       quotes: [
         "In my experience, there is no such thing as luck.",
         "The truth is often what we make of it.",
